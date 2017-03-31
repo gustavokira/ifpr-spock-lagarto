@@ -1,0 +1,8 @@
+Formar grupos de até 4 integrantes para implementar um jogo de pedra,papel,tesoura,lagarto e spock usando classes e objetos.
+a) assista o vídeo: https://www.youtube.com/watch?v=7QiiFEbGYnQ
+b) assista o vídeo: https://www.youtube.com/watch?v=Kov2G0GouBw
+c) O jogo deve ser feito para uma pessoa jogar contra o computador.
+d) O jogador deve poder escolher entre pedra, papel, tesoura, lagarto ou spock.
+e) O computador deve ter a capacidade de escolher entre pedra,papel,tesoura,lagarto ou spock de forma aleatória (pesquisar como funciona "Math.random()").
+f) O jogo deve dizer quem ganhou.
+g) Em caso de empate, deve-se jogar uma nova rodada.
